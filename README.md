@@ -1,4 +1,4 @@
-# Hi there, I'm Kollu Divya 👋
+#                 Hi there, I'm Kollu Divya 👋
 **AI & ML Student | Full-Stack Python Developer & Data Analyst**  
 *Amalapuram, India*
 
@@ -32,8 +32,3 @@ B.Tech student specializing in Artificial Intelligence and Machine Learning with
 
 ---
 
-### 📊 GitHub Analytics
-*These live-updating widgets show your coding metrics cleanly underneath your resume text.*
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Divyakollu30&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Divyakollu30&layout=compact&theme=radical)
