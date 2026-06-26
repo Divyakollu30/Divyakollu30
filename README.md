@@ -1,21 +1,35 @@
-# KOLLU DIVYA
-> **AI & ML Student | Full-Stack Python Developer**  
-> 📍 Amalapuram, India • [LinkedIn](https://linkedin.com/in/kollu-divya) • [Email](mailto:kolludivya6@gmail.com)
+# 🪐 STUDIO // KOLLU DIVYA
+> **AI & ML Engineer | Full-Stack Python Developer**
+> 📍 Amalapuram, India • [Data Pipeline Contact](mailto:kolludivya6@gmail.com) • [Relational Matrix (LinkedIn)](https://linkedin.com/in/kollu-divya)
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/render?type=wave&color=110E22&height=140&section=header&text=AI%20//%20ML%20//%20FULL-STACK&fontSize=35&fontColor=F3E8FF" alt="Studio Banner" />
+</p>
 
 ---
 
-### 📝 Executive Summary
-B.Tech student specializing in Artificial Intelligence and Machine Learning with hands-on experience in full-stack Python development and data analytics. Proficient in optimizing relational databases using SQL, building web applications, and preprocessing data for machine learning workflows. Seeking an opportunity to leverage software development and analytical skills in a core technology role.
+### 📝 EXECUTIVE ARCHITECTURE
+B.Tech student specializing in **Artificial Intelligence and Machine Learning** with hands-on infrastructure experience across full-stack Python environments and data analytics. Proficient in optimizing relational database pipelines using SQL, building structured web applications, and preprocessing foundational data architectures for machine learning workflows.
 
-* 🔭 **Current Projects:** Building robust AI/ML applications and data pipelines.
-* 🌱 **Skill Acquisition:** Advanced Generative AI architectures and full-stack frameworks.
+* 🔭 **Current Pipeline:** Building robust AI/ML visualizers and structural automation scripts.
+* 🌱 **Skill Acquisition:** Deep Learning, Generative AI models, and next-generation full-stack frameworks.
 
 ---
 
-### 🛠️ Technical Inventory
+### 🛠️ TECHNICAL INVENTORY MATRIX
 
-```yml
-Languages: [Python, C]
-Web Development: [HTML, CSS]
-Databases: [MySQL, SQL]
-Tools & Version Control: [VS Code, Git, GitHub]
+| Core Subsystem | Technologies & Frameworks | Status Indicator |
+| :--- | :--- | :--- |
+| **Languages** | <img src="https://img.shields.io/badge/Python-3B82F6?style=for-the-badge&logo=python&logoColor=05040A" /> <img src="https://img.shields.io/badge/C-A855F7?style=for-the-badge&logo=c&logoColor=05040A" /> | `STABLE // ACTIVE` |
+| **Web Infrastructure** | <img src="https://img.shields.io/badge/HTML5-06B6D4?style=for-the-badge&logo=html5&logoColor=05040A" /> <img src="https://img.shields.io/badge/CSS3-EC4899?style=for-the-badge&logo=css3&logoColor=05040A" /> | `OPTIMIZED` |
+| **Databases** | <img src="https://img.shields.io/badge/MySQL-10B981?style=for-the-badge&logo=mysql&logoColor=05040A" /> <img src="https://img.shields.io/badge/SQL-F59E0B?style=for-the-badge&logo=databricks&logoColor=05040A" /> | `RELATIONAL_READY` |
+| **Development Environments** | <img src="https://img.shields.io/badge/VS_Code-22C55E?style=for-the-badge&logo=visualstudiocode&logoColor=05040A" /> | `WORKSPACE_DEFAULT` |
+| **Version Control** | <img src="https://img.shields.io/badge/Git-EF4444?style=for-the-badge&logo=git&logoColor=05040A" /> <img src="https://img.shields.io/badge/GitHub-7C3AED?style=for-the-badge&logo=github&logoColor=05040A" /> | `DISTRIBUTED` |
+
+---
+
+### 🌌 ACTIVE TELEMETRY LOGS
+```bash
+> Initializing data preprocessing sequences... 100% Success.
+> Optimizing SQL queries. Latency minimal. Relational nodes connected seamlessly.
+> System state: Core tech execution engine standing by.
